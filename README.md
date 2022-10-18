@@ -13,6 +13,6 @@ It is a "3d" asteroid game(the player can move only in 2d).
 - Enemies can also gain mass if they hit neural planets.
 
 To launch the game extract game.zip and launch the game.exe file.
-You would need [unity project manager]() to open the project.
+You would need [unity project manager](https://unity.com/download) to open the project.
 More info can be found at [Project website](https://rh18vo.wixsite.com/3p98finalproject/materials-and-models)
 
