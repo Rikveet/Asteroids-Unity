@@ -1,4 +1,4 @@
-# 3p98-Final-Project
+# Asteroids
 3p98 term project unity build and project
 
 It is a "3d" asteroid game(the player can move only in 2d). 
