@@ -12,12 +12,8 @@ It is a "3d" asteroid game(the player can move only in 2d).
 - At 1000 units your energy shield is not operable and you are susceptible to enemy hits.
 - Enemies can also gain mass if they hit neural planets.
 
-[![]()]("https://youtu.be/J3qSp7ykJK0")
-<a href="https://youtu.be/J3qSp7ykJK0" title="Game demo">
-  <p align="center">
-    <img width="75%" src="https://user-images.githubusercontent.com/62815232/210471072-441274f8-c0e5-44f5-8740-7ac2fe31ca64.jpg" alt="Game demo thumbnail"/>
-  </p>
-</a>
+[![](https://user-images.githubusercontent.com/62815232/210471072-441274f8-c0e5-44f5-8740-7ac2fe31ca64.jpg)](https://youtu.be/J3qSp7ykJK0)
+
 To launch the game extract game.zip and launch the game.exe file.
 You would need [unity project manager](https://unity.com/download) to open the project.
 More info can be found at [Project website](https://rh18vo.wixsite.com/3p98finalproject/materials-and-models)
